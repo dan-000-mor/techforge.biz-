@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-login.php
+Disallow: /wp-json/
+Disallow: /wp-content/plugins/
+Disallow: /?s=
+Disallow: /search/
+Sitemap: https://techforge.biz/sitemaptechbiz.txt
